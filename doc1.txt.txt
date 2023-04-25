@@ -1,1 +1,14 @@
-file document was created
+//git command
+ 1. git clone <repo link>
+ 2. git status  //check if any update
+ 3. git add .   //add changed file
+ 4. git commit -m "message something"
+ 5. git push origin <branch name> //push everything that we have been add to repository
+
+// check current branch
+  1.git branch
+ //create new branch
+  2.git branch <name new branch>
+ // switch to new branch
+  3.git checkout <name new branch>
+
